@@ -1,0 +1,15 @@
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\bin\Debug\net6.0\Dio_C#.exe
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\bin\Debug\net6.0\Dio_C#.deps.json
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\bin\Debug\net6.0\Dio_C#.runtimeconfig.json
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\bin\Debug\net6.0\Dio_C#.dll
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\bin\Debug\net6.0\Dio_C#.pdb
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\obj\Debug\net6.0\Dio_C#.csproj.AssemblyReference.cache
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\obj\Debug\net6.0\Dio_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\obj\Debug\net6.0\Dio_C#.AssemblyInfoInputs.cache
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\obj\Debug\net6.0\Dio_C#.AssemblyInfo.cs
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\obj\Debug\net6.0\Dio_C#.csproj.CoreCompileInputs.cache
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\obj\Debug\net6.0\Dio_C#.dll
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\obj\Debug\net6.0\refint\Dio_C#.dll
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\obj\Debug\net6.0\Dio_C#.pdb
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\obj\Debug\net6.0\Dio_C#.genruntimeconfig.cache
+C:\Users\Serratec\Desktop\projetos dev\Dio_C#\obj\Debug\net6.0\ref\Dio_C#.dll
