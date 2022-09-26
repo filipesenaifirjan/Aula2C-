@@ -59,4 +59,4 @@ namespace Aula02
         }
     }
 }
-//ou usa o switch case, que fica bem mais organizado 
+//ou usa else if, mas nesse caso, o switch ficou mais organizado
