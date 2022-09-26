@@ -15,7 +15,9 @@ namespace Aula02
 
 
             }
-
+        else { 
+            Console.WriteLine("Você é menor de idade");
+        }
         }
         
     }
